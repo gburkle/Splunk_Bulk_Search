@@ -18,4 +18,4 @@ Download Folder/Script and place it inside your Splunk-sdk folder.
 [3] Bulk Search with Raw logs [NOT YET IMPLEMENTED]: It will do pretty much the same as "Bulk Search" except that it will get ALL logs it can find in Splunk and     dump them on a file "logs.txt". This will probably take way longer that a regular "Bulk Search"
 
 
-** THIS COME AS IS!! NO WARRANTIES - USE IT UNDER YOUR OWN RISK!!!
+** THIS COMES AS IS!! NO WARRANTIES - USE IT UNDER YOUR OWN RISK!!!  **
