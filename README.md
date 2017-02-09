@@ -14,3 +14,5 @@ Download Folder/Script and place it inside your Splunk-sdk folder.
     The intention is to search a big list as fast as possible and get only results that you can then use to dig deeper. 
     Creates a "hits.txt" file with IPs/Urls that returned results.
     Created a "already_checked.txt" with IP's/Urls that have already been checked. (In case you need to cut the search short, or something     goes wrong you can pick up where you left)
+    
+[3] Bulk Search with Raw logs [NOT YET IMPLEMENTED]: It will do pretty much the same as "Bulk Search" except that it will get ALL logs it can find in Splunk and     dump them on a file "logs.txt". This will probably take way longer that a regular "Bulk Search"
