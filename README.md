@@ -5,7 +5,7 @@ This is an interactive script that will make use of a provided file listing IP a
 
 This script relies 100% on splunk-sdk and REST API. (http://dev.splunk.com/sdks) 
 
-There might be a better way to go about this, but I decided to code the script to get back into Python Scripting.
+There might be a better way to go about this, but I decided to code the script to get back into Python Scripting and learn how to use github. ^-^
 
 Install:
 Download Folder/Script and place it inside your Splunk-sdk folder. 
