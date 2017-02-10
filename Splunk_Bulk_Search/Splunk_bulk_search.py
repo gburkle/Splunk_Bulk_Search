@@ -161,7 +161,7 @@ def pretty(response):
 
 def getconfig():
 	creds = []
-	file = raw_input("Enter the name of the file containing you list of IP/URLs (must be on the same filder as this script): ")
+	file = raw_input("Enter the name of the file containing you list of IP/URLs (must be in the same folder as this script): ")
 	creds.append({'file': file})
 	user = raw_input("Enter your Splunk username: ")
 	creds.append({'user' : user})
