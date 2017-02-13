@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 # Imports
 import sys, os, re
 from pprint import pprint
